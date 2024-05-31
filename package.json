@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "patelsujalm",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.30.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security"
+  }
+}
